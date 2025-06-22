@@ -27,3 +27,19 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Maven
+target/
+logs/
+*.log
+
+# Java compiled class files
+*.class
+
+# IntelliJ
+.idea/
+*.iml
